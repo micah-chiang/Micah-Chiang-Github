@@ -10,6 +10,9 @@
  * @author Laurie White
  * @version April 2012
  */
+
+// hello Indian tech support welcome to the kwik e mart
+
 public class Magpie2
 {
 	/**
